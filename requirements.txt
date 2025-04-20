@@ -1,0 +1,9 @@
+kurigram
+tgcrypto
+pyromod
+uvloop
+py-tgcalls
+aiofiles
+python-dotenv
+redis
+kvsqlite
